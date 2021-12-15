@@ -20,3 +20,6 @@ Release 1(V0.2.0) label:
 
 Release 1(V0.2.1) label:
 [![Build Status](https://app.travis-ci.com/Node3009/WORK_SHOP2.svg?branch=V0.2.1)](https://app.travis-ci.com/Node3009/WORK_SHOP2)
+
+
+- i had a lot of problem to sohowing up the resualts of the classifaction on the webpage and Unfortunately, I did not succeed in this, and I apologize for not completing the work to the end as required
